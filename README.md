@@ -3,8 +3,11 @@
 
 
 ## About Me
-I'm a developer... or something like that?
-Curiosity has always driven me to understand how and why things work. I’ve built backend applications with Spring Boot, handled their deployments with Docker, and created web interfaces using React or Angular, as well as mobile experiences with Jetpack Compose. I approach development with purpose and see every iteration—including the missteps—as a chance to improve.
+I'm a developer
+I am very curious, which has always driven me to understand how and why things work. 
+I have experience in API development with Spring Boot and JavaScript, as well as containerization with Docker and its use in CI/CD practices.
+In addition, I have tried creating web pages using React or Angular, as well as mobile applications with Jetpack Compose.
+I approach development with a purpose and sometimes with the intention of learning more. I believe that mistakes are a great opportunity to improve and grow.
 
 
 ## Skills
