@@ -43,7 +43,7 @@ Curiosity has always driven me to understand how and why things work. I’ve bui
   <img src="https://img.shields.io/badge/LinkedIn-@guilleps-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010" alt="LinkedIn" />
 </a>
 <a href="mailto:lguillermops@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/nothicc04@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" />
+  <img src="https://img.shields.io/badge/lguillermops@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" />
 </a>
 
 ###
