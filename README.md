@@ -5,7 +5,7 @@
 ## About Me
 I'm a developer
 I am very curious, which has always driven me to understand how and why things work. 
-I have experience in API development with Spring Boot and JavaScript, as well as containerization with Docker and its use in CI/CD practices.
+My experience ranges from building APIs and integrating services to working with data pipelines, cloud environments, and containerized applications. I've also explored web and mobile development through both professional work and personal projects.
 In addition, I have tried creating web pages using React or Angular, as well as mobile applications with Jetpack Compose.
 I approach development with a purpose and sometimes with the intention of learning more. I believe that mistakes are a great opportunity to improve and grow.
 
@@ -28,6 +28,8 @@ I approach development with a purpose and sometimes with the intention of learni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
